@@ -143,6 +143,7 @@ Tecnóloga en Análisis y Desarrollo de Software con enfoque en Análisis de Dat
 
 ### Conecta conmigo
 
-* LinkedIn: (Agregar enlace)
+* LinkedIn: www.linkedin.com/in/dpms198019782008
+
 * GitHub: https://github.com/Dmartinezsanchez
 
