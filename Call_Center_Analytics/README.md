@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Analizar el comportamiento operativo de un centro de contacto mediante indicadores clave de desempeño.
+Analizar el desempeño operativo de un centro de contacto mediante indicadores clave de gestión.
 
 ## Herramientas utilizadas
 
@@ -20,8 +20,8 @@ Analizar el comportamiento operativo de un centro de contacto mediante indicador
 
 ## Dashboard
 
-[Dashboard Call Center](dashboard call center.png)
+![Dashboard Call Center](dashboard_call_center.png)
 
 ## Conclusiones
 
-- Pendiente de documentar.
+Proyecto desarrollado para analizar el comportamiento operativo del centro de contacto y apoyar la toma de decisiones mediante visualización de datos.
