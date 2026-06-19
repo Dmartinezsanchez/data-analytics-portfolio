@@ -20,7 +20,7 @@ Analizar el desempeño operativo de un centro de contacto mediante indicadores c
 
 ## Dashboard
 
-![Dashboard Call Center](dashboard_call_center.png)
+![dashboard call center](dashboard_call_center.png)
 
 ## Conclusiones
 
