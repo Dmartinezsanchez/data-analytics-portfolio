@@ -20,7 +20,7 @@ Analizar el comportamiento operativo de un centro de contacto mediante indicador
 
 ## Dashboard
 
-(Aquí agregaré una imagen del dashboard)
+![Dashboard](dashboard.png)
 
 ## Conclusiones
 
